@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Welcome Back to Pakistan</title>
+  <!-- Link to external CSS file -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <!-- Headline -->
+    <h1>Welcome back to Pakistan</h1>
+
+    <!-- Sweet paragraph -->
+    <p class="description">
+      After every journey, there's no place like home. Welcome back to the heart of warmth,
+      tradition, and blossoming beauty. May your return bring peace, joy, and fresh beginnings.
+    </p>
+
+    <!-- Flower image gallery -->
+    <div class="image-gallery">
+      <img src="https://source.unsplash.com/300x200/?flower,1" alt="Flower 1" />
+      <img src="https://source.unsplash.com/300x200/?flower,2" alt="Flower 2" />
+      <img src="https://source.unsplash.com/300x200/?flower,3" alt="Flower 3" />
+    </div>
+  </div>
+</body>
+</html>
